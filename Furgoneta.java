@@ -2,7 +2,7 @@ package poo;
 
 //VIDEO 40. HERENCIA 1
 
-//Con extends vemos que furgoneta hereda de la clase coche:
+//Con extends vemos que furgoneta hereda de la clase coche :
 public class Furgoneta extends coche {
 	
 	private int capacidad_carga;
